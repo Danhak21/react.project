@@ -1,0 +1,45 @@
+.photo{
+    display: flex;
+    flex-wrap: wrap;
+    div{
+        width: 300px;
+        height: 300px;
+        border: 1px solid black;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        border-radius: 20px;
+        position: relative;
+        img{
+            width: 100%;
+            height: 80%;
+            border:1px solid black;
+            border-radius: 20px 20px 0 0;
+        }
+        p{
+            font-family: monospace;
+            text-align: center;
+            font-size: 25px;
+            height: 20%;
+        }
+        div{
+            display: flex;
+            width: 100%;
+            justify-content: space-around;
+            flex-direction: row;
+            border:none;
+            position: absolute;
+            top:0;
+            left:0;
+            right: 0;
+            img{
+                width: 8%;
+                height: 8%;
+                padding: 1px 0;
+                border: none;
+                background: white;
+                border-radius: 0 0 6px 6px;
+            }
+        }
+    }
+}

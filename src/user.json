@@ -1,0 +1,42 @@
+[
+    {
+        "name":"Anna",
+        "surname":"Anyan",
+        "bg":"pink",
+        "col":"blue",
+        "border":"2px dotted red",
+        "age":20
+    },
+    {
+        "name":"Ani",
+        "surname":"Karapetyan",
+        "bg":"black",
+        "col":"white",
+        "border":"2px dotted red",
+        "age":25
+    },
+    {
+        "name":"Armen",
+        "surname":"Lalayan",
+        "bg":"red",
+        "col":"lightblue",
+        "border":"2px dotted red",
+        "age":27
+    },
+    {
+        "name":"Vazgen",
+        "surname":"Davtyan",
+        "bg":"yellow",
+        "col":"blue",
+        "border":"2px dotted red",
+        "age":28
+    },
+    {
+        "name":"Inga",
+        "surname":"Aleksanyan",
+        "bg":"green",
+        "col":"black",
+        "border":"2px dotted red",
+        "age":32
+    }
+]
